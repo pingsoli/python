@@ -1,4 +1,4 @@
-# Chap 1.2 Unpacking Elements from Interables of Arbitrary Length
+# 1.2 Unpacking Elements from Interables of Arbitrary Length
 
 # Keyword: star expresson, '*'
 

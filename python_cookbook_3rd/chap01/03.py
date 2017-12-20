@@ -1,4 +1,4 @@
-# Keeping the Last N Items
+# 1.3 Keeping the Last N Items
 
 from collections import deque
 

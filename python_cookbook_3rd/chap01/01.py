@@ -1,4 +1,4 @@
-# chapter 1.1 Unpacking a Sequence into separate Variables
+# 1.1 Unpacking a Sequence into separate Variables
 
 # Any sequence (or iterable) can be unpacked into variables using
 # a simple assignment operation.
