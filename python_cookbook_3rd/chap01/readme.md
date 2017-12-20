@@ -1,7 +1,5 @@
 # Chapter01 - Data Structure and Algorithms
-=======
-```
-1.1  Unpacking a Sequence into separate Variables
+[1.1  Unpacking a Sequence into separate Variables](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/01.py)
 1.2  Unpacking Elements from Interables of Arbitrary Length
 1.3  Keeping the Last N Items
 1.4  Finding the Largest or Smallest N Items
@@ -21,4 +19,3 @@
 1.18 Mapping Names to Sequence Elements
 1.19 Transforming and Reducing Date at Same Time
 1.20 Combining Multiple Mappings into a Single Mapping
-```
