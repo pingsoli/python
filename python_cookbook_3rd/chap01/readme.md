@@ -1,21 +1,21 @@
 # Chapter01 - Data Structure and Algorithms
-[1.1  Unpacking a Sequence into separate Variables](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/01.py)
-1.2  Unpacking Elements from Interables of Arbitrary Length
-1.3  Keeping the Last N Items
-1.4  Finding the Largest or Smallest N Items
-1.5  Implementing a Priority Queue
-1.6  Mapping Keys to Multiple Values in a Dictionary
-1.7  Keeping Dictionaries in Order
-1.8  Calculating with Dictionaries
-1.9  Finding Commonalities in Two Dictionaries
-1.10 Removing duplicates from a Sequence whlie Maintaining Order
-1.11 Naming a Slice
-1.12 Determining the Most Frequently Occuring Items in a Sequence
-1.13 Sorting a List of Dictionaries by a Common Key
-1.14 Sorting Object Without Native Comparasion Support 
-1.15 Grouping Records Together Based on a Field
-1.16 Filtering Sequence Elements
-1.17 Extracting a Subset of Dictionary
-1.18 Mapping Names to Sequence Elements
-1.19 Transforming and Reducing Date at Same Time
-1.20 Combining Multiple Mappings into a Single Mapping
+[# 1.1 Unpacking a Sequence into separate Variables](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/01.py)  
+[# 1.2 Unpacking Elements from Interables of Arbitrary Length](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/02.py)  
+[# 1.3 Keeping the Last N Items](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/03.py)  
+[# 1.4 Finding the Largest or Smallest N Items](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/04.py)  
+[# 1.5 Implementing a Priority Queue](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/05.py)  
+[# 1.6 Mapping Keys to Multiple Values in a Dictionary](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/06.py)  
+[# 1.7 Keeping Dictionaries in Order](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/07.py)  
+[# 1.8 Calculating with Dictionaries](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/08.py)  
+[# 1.9 Finding Commonalities in Two Dictionaries](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/09.py)  
+[# 1.10 Removing duplicates from a Sequence whlie Maintaining Order](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/10.py)  
+[# 1.11 Naming a Slice](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/11.py)  
+[# 1.12 Determining the Most Frequently Occuring Items in a Sequence](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/12.py)  
+[# 1.13 Sorting a List of Dictionaries by a Common Key](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/13.py)  
+[# 1.14 Sorting Object Without Native Comparasion Support ](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/14.py)  
+[# 1.15 Grouping Records Together Based on a Field](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/15.py)  
+[# 1.16 Filtering Sequence Elements](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/16.py)  
+[# 1.17 Extracting a Subset of Dictionary](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/17.py)  
+[# 1.18 Mapping Names to Sequence Elements](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/18.py)  
+[# 1.19 Transforming and Reducing Date at Same Time](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/19.py)  
+[# 1.20 Combining Multiple Mappings into a Single Mapping](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap01/20.py)  
