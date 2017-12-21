@@ -1,4 +1,4 @@
-# Chapter03 Numbers, Dates, and Times
+# Chapter03 - Numbers, Dates, and Times
 [# 3.1 Rounding Numberical Values](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap03/01.py)    
 [# 3.2 Performing Accurate Decimal Calculations](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap03/02.py)    
 [# 3.3 Formatting Numbers for Output](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap03/03.py)    

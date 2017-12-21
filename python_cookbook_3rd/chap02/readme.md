@@ -1,4 +1,4 @@
-# Chapter02 Strings and Text
+# Chapter02 - Strings and Text
 [# 2.1 Splitting Strings on Any of Multiple Delimiters](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap02/01.py)    
 [# 2.2 Matching Text at the Start or End of a String](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap02/02.py)    
 [# 2.3 Matching String Using Shell Willcard Patterns](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap02/03.py)    
