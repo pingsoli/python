@@ -1,3 +1,4 @@
+# Chapter02 Strings and Text
 [# 2.1 Splitting Strings on Any of Multiple Delimiters](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap02/01.py)    
 [# 2.2 Matching Text at the Start or End of a String](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap02/02.py)    
 [# 2.3 Matching String Using Shell Willcard Patterns](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap02/03.py)    
@@ -17,3 +18,4 @@
 [# 2.17 Handling HTML and XML Entities in Text](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap02/17.py)    
 [# 2.18 Tokening Text](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap02/18.py)    
 [# 2.19 Writing a Simple Recursive Descent Parser](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap02/19.py)    
+[# 2.20 Performing Text Operations on Byte Strings](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap02/20.py)    
