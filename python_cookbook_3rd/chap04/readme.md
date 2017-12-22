@@ -1,4 +1,4 @@
-  # Chapter04 - Iterations and Generators   
+# Chapter04 - Iterations and Generators
 [# 4.1 Mannually Consuming an Iterator](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap04/01.py)    
 [# 4.2 Delegating Iteration](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap04/02.py)    
 [# 4.3 Creating New Iteration Patterns with Generators](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap04/03.py)    
