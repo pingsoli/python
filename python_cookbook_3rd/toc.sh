@@ -12,7 +12,8 @@ echo -e $title >> $target
 for dir in $directories
 do
   text=$(head -n 1 $dir/$target | xargs)
-  link=$(echo $text | xargs | tr '[A-Z]' '[a-z]' | sed 's/ //; s/,/ /g; s/  */-/g')
+  # remove first whitespace,
+  link=$(echo $text | xargs | tr '[A-Z]' '[a-z]' | sed 's/ //; s/,/ /g; s/\///g; s/  */-/g')
   url="$prefix/$(basename $dir)$link"
   echo "[$text]($url)    " >> $target
 done
