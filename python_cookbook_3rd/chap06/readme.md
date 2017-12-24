@@ -1,0 +1,13 @@
+# Chapter06 - Data and Writing CSV Data
+[# 6.1 Reading and Writing CSV Data](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/01.py)    
+[# 6.2 Reading and Writing JSON Data](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/02.py)    
+[# 6.3 Parsing Simple XML Data](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/03.py)    
+[# 6.4 Parsing Huge XML Files Incrementally](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/04.py)    
+[# Turning a Dictionary into XML](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/05.py)    
+[# 6.6 Parsing, Modifying, and Rewriting XML](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/06.py)    
+[# 6.7 Parsing XML Documents with Namespaces](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/07.py)    
+[# 6.8 Interacting with Relational Database](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/08.py)    
+[# 6.9 Decoding and Encoding Hexademical Digits](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/09.py)    
+[# 6.10 Decoding and Encoding Base64](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/10.py)    
+[# 6.11 Reading and Writing Binary Arrays of Structures](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/11.py)    
+[# 6.12 Reading Nested and Variable-Size Binary Structures](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/12.py)    

@@ -15,7 +15,7 @@ do
   # upper-case to lower-case, next remove special characters(\/,+$^),
   # next strip, next change whitespace to '-'.
   link=$(echo $text | tr '[A-Z]' '[a-z]' | sed 's/[\/\\+,^$#]//g' | xargs | sed 's/  */-/g')
-
+          
   url="$prefix/$(basename $dir)#$link"
   echo "[$text]($url)    " >> $target
 done
