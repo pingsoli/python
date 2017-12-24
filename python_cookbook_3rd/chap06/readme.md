@@ -3,7 +3,7 @@
 [# 6.2 Reading and Writing JSON Data](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/02.py)    
 [# 6.3 Parsing Simple XML Data](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/03.py)    
 [# 6.4 Parsing Huge XML Files Incrementally](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/04.py)    
-[# Turning a Dictionary into XML](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/05.py)    
+[# 6.5 Turning a Dictionary into XML](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/05.py)    
 [# 6.6 Parsing, Modifying, and Rewriting XML](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/06.py)    
 [# 6.7 Parsing XML Documents with Namespaces](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/07.py)    
 [# 6.8 Interacting with Relational Database](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06/08.py)    
