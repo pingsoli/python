@@ -7,3 +7,4 @@
 [# Chapter05 - Files and I/O](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap05#chapter05---files-and-io)    
 [# Chapter06 - Data and Writing CSV Data](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap06#chapter06---data-and-writing-csv-data)    
 [# Chapter07 - Functions](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap07#chapter07---functions)    
+[# Chapter08 - Classes and Objects](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08#chapter08---classes-and-objects)    
