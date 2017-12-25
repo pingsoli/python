@@ -7,3 +7,7 @@
 [# 7.6 Defining Anonymous or Inline Functions](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap07/06.py)    
 [# 7.7 Capturing Variables in Anonymous Functions](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap07/07.py)    
 [# 7.8 Making an N-Argument Callable Work As a Callable with Fewer Arguments](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap07/08.py)    
+[# 7.9 Replacing Single Method Classes with Functions](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap07/09.py)    
+[# 7.10 Carrying Extra State with Callback Functions](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap07/10.py)    
+[# 7.11 Inlining Callback Functions](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap07/11.py)    
+[# 7.12 Accessing Variables Defined Inside a Closure](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap07/12.py)    

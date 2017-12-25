@@ -1,0 +1,10 @@
+# Chapter08 - Classes and Objects
+[# 8.1 Changing the String Representation of Instances](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/01.py)    
+[# 8.2 Customizing String Formatting](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/02.py)    
+[# 8.3 Making Objects Support the Context-Management Protocol](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/03.py)    
+[# 8.4 Saving Memory When Creating a Large Number of Instances](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/04.py)    
+[# 8.5 Encapsulating Names in a Class](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/05.py)    
+[# 8.6 Creating Managed Attributes](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/06.py)    
+[# 8.7 Calling a Method on a Parent Class](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/07.py)    
+[# 8.8 Extending a Property in a Subclass](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/08.py)    
+[# 8.9 Creating a New Kind of Class or Instance Attribute](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/09.py)    
