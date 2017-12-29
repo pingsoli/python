@@ -56,5 +56,47 @@ times5 = make_multiplier_of(5)
 # (<cell at 0x7f891181a8e8: int object at 0x921ba0>,)
 
 # The cell object has the attribute cell_contents which stores the closed value.
-print(times3.__closure__[0].cell_contents)  # 3
-print(times5.__closure__[0].cell_contents)  # 5
+#print(times3.__closure__[0].cell_contents)  # 3
+#print(times5.__closure__[0].cell_contents)  # 5
+
+
+# Define a function
+def foo(x):
+    # inner function 'bar'
+    def bar(y):
+        q = 100
+        # inner function 'baz'
+        def baz(z):
+            print("Locals: ", locals())
+            print("Vars: ", vars())
+            return x + y + q + z
+        return baz
+    return bar
+
+f = foo(10)(20)
+# Locals:  {'z': 30, 'y': 20, 'x': 10, 'q': 100}
+# Vars:  {'z': 30, 'y': 20, 'x': 10, 'q': 100}
+#print(f(30))  # 160
+#for closure in f.__closure__:
+#    print(closure.cell_contents)
+# 100
+# 10
+# 20
+
+
+# The following examples are not closure
+# def f1(x):
+#     def f2():
+#         pass
+#     return f2
+# 
+# f = f1(10)
+# print(f.__closure__)  # None
+
+#def f1(x):
+#    def f2(x=x):
+#        print(x)
+#    return f2
+#
+#f = f1(10)
+#print(f.__closure__)  # None

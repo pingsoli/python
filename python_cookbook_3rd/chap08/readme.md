@@ -19,3 +19,8 @@
 [# 8.18 Extending Classes with Mixins](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/18.py)    
 [# 8.19 Implementing Stateful Objects or State Machines](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/19.py)    
 [# 8.20 Calling a Method on an Object Given the Name As a String](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/20.py)    
+[# 8.21 Implementing the Visitor Pattern](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/21.py)    
+[# 8.22 Implementing the Visitor Pattern Without Recursion](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/22.py)    
+[# 8.23 Managing Memory in Cyclic Data Structures](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/23.py)    
+[# 8.24 Making Classes Support Comparsion Operations](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/24.py)    
+[# 8.25 Creating Cached Instances](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08/25.py)    
