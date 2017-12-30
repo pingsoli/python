@@ -1,0 +1,6 @@
+[# 9.1 Putting a Wrapper Around a Function](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap09/01.py)    
+[# 9.2 Preserving Function Metadata When Writing](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap09/02.py)    
+[# 9.3 Unwrapping a Decorator](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap09/03.py)    
+[# 9.4 Defining a Decorator That Takes Arguments](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap09/04.py)    
+[# 9.5 Defining a Decorator With User Adjustable Attributes](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap09/05.py)    
+[# 9.6 Defining a Decorator That Takes an Optional Argument](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap09/06.py)    
