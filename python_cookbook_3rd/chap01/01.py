@@ -21,13 +21,13 @@ name, shares, price, (year, mon, day) = data
 
 s = 'hello'
 a, b, c, d, e = s
-# h e l l o
-# print(a, b, c, d, e)
+print(a, b, c, d, e)  # h e l l o
 
 # Discard certain values when unpacking.
 data = [ 'ACME', 50, 91.1, (2012, 12, 21) ]
 _, shares, price, _ = data
 # 50 91.1
-# print(shares, price)
+#print(shares, price)
+# 50 91.1
 
 

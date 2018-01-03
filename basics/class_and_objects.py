@@ -7,7 +7,7 @@ class MyClass:
         print("this is a message inside the class.") 
 
 myobj = MyClass()
-myobj.print_info()
+#myobj.print_info()
 
 
 # Exercise
@@ -33,5 +33,29 @@ car2.name = "Jump"
 car2.color = "blue"
 car2.value = 10000.00
 
-print(car1.description())
-print(car2.description())
+#print(car1.description())
+#print(car2.description())
+# Fer is a red car worth $60000.00
+# Jump is a blue car worth $10000.00
+
+# @staticmethod and @classmethod difference
+class Date:
+    def __init__(self, year, month, day):
+        self.year = year
+        self.month = month
+        self.day = day
+
+    @classmethod
+    def from_string(cls, date_as_string):
+        year, month, day = map(int, date_as_string.split('-'))
+        date1 = cls(year, month, day)
+        return date1
+
+    @staticmethod
+    def is_valid_date(date_as_string):
+        year, month, day = map(int, date_as_string.split('-'))
+        return day <= 31 and month <= 12 and year <= 3999
+
+
+date2 = Date.from_string('2018-01-02')
+print(Date.is_valid_date('2018-01-02'))  # True
