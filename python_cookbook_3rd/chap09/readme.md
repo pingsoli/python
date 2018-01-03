@@ -23,4 +23,4 @@
 [# 9.22 Defining Context Managers the Easy Way](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap09/22.py)    
 [# 9.23 Executing Codes with Local Side Effects](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap09/23.py)    
 [# 9.24 Parsing and Analyzing Python Source](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap09/24.py)    
-[# Disassembling Python Byte Code](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap09/25.py)    
+[# 9.25 Disassembling Python Byte Code](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap09/25.py)    
