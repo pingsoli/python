@@ -1,4 +1,4 @@
-# Storing Thread-Specific State
+# 12.6 Storing Thread-Specific State
 
 # threading.local()
 

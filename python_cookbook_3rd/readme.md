@@ -10,3 +10,6 @@
 [# Chapter08 - Classes and Objects](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap08#chapter08---classes-and-objects)    
 [# Chapter09 - Metaprogramming](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap09#chapter09---metaprogramming)    
 [# Chapter10 - Modules and Packages](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap10#chapter10---modules-and-packages)    
+[# Chapter11 - Network and Web Programming](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap11#chapter11---network-and-web-programming)    
+[# Chapter12 - Concurrency](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap12#chapter12---concurrency)    
+[# Chapter13 - Utility Script and System Administration](https://github.com/pingsoli/python/blob/master/python_cookbook_3rd/chap13#chapter13---utility-script-and-system-administration)    
