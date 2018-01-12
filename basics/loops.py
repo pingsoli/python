@@ -12,7 +12,6 @@ primes = [ 2, 3, 5, 7 ]
 #for x in range(3, 8, 2):
 #    print(x)
 
-
 # Whlie loop, break and continue is same as C language. 
 count = 0
 while count < 5:

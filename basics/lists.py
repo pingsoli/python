@@ -1,4 +1,3 @@
-# List is a container and basic data structure.
 # List is ordered, so we can use index to access element in list.
 # NOTE: the index of list is zero-based.
 

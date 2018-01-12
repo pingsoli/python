@@ -6,6 +6,8 @@ Python learning notes.<br>
 .
 ├── advanced
 ├── basics
+├── concurrency
+├── design_pattern
 ├── effective_python
 ├── file_io
 ├── magic_methods
