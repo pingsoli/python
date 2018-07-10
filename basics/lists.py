@@ -9,6 +9,10 @@ mylist.append(3)
 #print(mylist[1])
 #print(mylist[0])
 
-# Traverse list 
+# Traverse list
 for x in mylist:
     print(x)
+
+# Changing the values of list
+mylist[0] = "hello"
+print(mylist) # ['hello', 2, 3]
